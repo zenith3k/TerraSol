@@ -1,0 +1,20 @@
+# Linux
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Arduino IDE
+*.tmp
+*.bak
+*.ino~
+
+# Build folders
+build/
